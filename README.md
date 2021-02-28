@@ -21,7 +21,7 @@
 ![](https://komarev.com/ghpvc/?username=Badbird-5907) <br />
 [![Badbird-5907's github stats](https://github-readme-stats.vercel.app/api?username=Badbird-5907&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   <br />
 ## 2021 goals
- - [ ] Write something useful to the community like a library
+ - [ ] Write something useful to the community like a library [JDACommand is one i guess](https://github.com/Badbird-5907/JDACommand)
  - [ ] Get a life
  - [ ] Start a mc pvp network
  - [ ] Learn C++
