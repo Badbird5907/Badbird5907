@@ -1,7 +1,27 @@
-### Badbird5907
+# Hi, i'm Badbird5907
+## Im a:<br>
+ 
+ - Java Developer
+ - Web Developer
+ - No-Life
+
+## More about me
+- I like to play minecraft (multiplayer pvp)
+- I spend most of my time developing spigot server plugins
+- I spend way too much time on a computer
+- Why are you reading this? this is so boring 
+
+## Websites:
+- https://badbird5907.net/
+- https://badbird5907.xyz/
+- https://i-hate.school/
+- https://octopvp.net/
+### Badges and stuff
 ![](https://komarev.com/ghpvc/?username=Badbird-5907) <br />
-Developer @ Aetheria <br />
-https://badbird5907.net <br />
-Currently working on a spigot plugin for Aetheria.   <br />
-Feel free to donate me BAT (Basic Attention Token) on this github page, On twitter (@badbird_5907) or on my websites: https://badbird5907.net and https://badbird5907.xyz  
 [![Badbird-5907's github stats](https://github-readme-stats.vercel.app/api?username=Badbird-5907)](https://github.com/anuraghazra/github-readme-stats)   <br />
+## 2021 goals
+ - [ ] Write something usefull to the community like a library
+ - [ ] Get a life
+ - [ ] Start a mc pvp network
+ - [ ] Learn C++
+ - [ ] Make enough money to support all my projects
