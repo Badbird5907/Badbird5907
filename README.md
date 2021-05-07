@@ -29,9 +29,12 @@
  - [ ] Learn C++
  - [ ] Make enough money to support all my projects
 
+## Public PGP Key
 <details>
 <summary>My Public PGP Key</summary>
 <br>
+
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGB+OzcBDACfNrod13m5oKvhRJ4R+l8mKTTsrsqkOfUv7JvoxKSaDfjdaYFt
@@ -73,4 +76,5 @@ GfLD9jr/0nfLaALhs49c/PI1YqdeXl/gQ/vHusWjngAre7QlToLDkR0IQTuNcV2Y
 sjZO17fAmFvUFuCvQEaIHooBRHn00VjgeA==
 =ycwW
 -----END PGP PUBLIC KEY BLOCK-----
+```
 </details>
