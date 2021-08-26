@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badbird-5907&layout=compact&theme=radical&hide=html,css&exclude_repo=AetheriaDiscord,mcp_1.12.2)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 2021 goals
- - [ ] Write something useful to the community like a library [JDACommand is one i guess](https://github.com/Badbird-5907/JDACommand)
+ - [-] Write something useful to the community like a library [JDACommand is one i guess](https://github.com/Badbird-5907/JDACommand)
  - [ ] Get a life
  - [ ] Start a mc pvp network
  - [ ] Learn C++
