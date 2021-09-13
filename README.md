@@ -27,7 +27,7 @@
  - [ ] Get a life
  - [ ] Start a mc pvp network
  - [ ] Learn C++
- - [ ] Make enough money to support all my projects
+ - [x] Make enough money to support all my projects
 
 ## Public PGP Key
 <details>
