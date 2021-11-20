@@ -11,7 +11,7 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
  - [Aetheria](https://github.com/AetherianDevelopers) - My 1.17 RPG server - [discord](https://discord.gg/aP4kymSh2D) - Joined in 2018, am a owner now
  - [JDACommand](https://github.com/Badbird-5907/JDACommand) - Command Library for [JDA](https://github.com/DV8FromTheWorld/JDA), originally created for [OctoCord](https://badbird5907.xyz/octocord)
  - [bLib](https://github.com/Badbird-5907/bLib) - Utility library (command, menu framework) for 1.13+ servers
- - [AntiCombatLog](https://github.com/Badbird-5907/AntiCombatLog) - Does what it name says [spigotmc](https://www.spigotmc.org/resources/anticombatlog.94540/)
+ - [AntiCombatLog](https://github.com/Badbird-5907/AntiCombatLog) - Does what it's name says [spigotmc](https://www.spigotmc.org/resources/anticombatlog.94540/)
 
 ## More about me
 - I like to play minecraft (multiplayer pvp)
