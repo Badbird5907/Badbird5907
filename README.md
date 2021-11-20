@@ -16,7 +16,7 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
  - Java, more specifically Minecraft development and JDA/Discord Bots
  - Node.js, some experience in Express.js (don't expect good reliable code from that)
  - MongoDB Synchronous Java driver
- - Git (commit, push, pull, fork, PR, patches)
+ - Git (commit, push, pull, fork, PR, patches, issues)
  - Server Administration 
 
 ## More about me
@@ -25,6 +25,7 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
 - I spend way too much time on a computer
 - Why are you reading this? this is so boring 
 - I spend 99% of my time complaining, 1% actually developing
+- I have a torn retina because I literally don't go outside
 
 ## Websites:
 - https://badbird5907.net/
