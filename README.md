@@ -5,7 +5,7 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
  - Java Developer
  - Web Developer
  - No-Life
-## What I'm Working on:<br>
+## What I'm working on:<br>
  - [OctoPvP](https://github.com/OctoPvP/) - My 1.8 pvp server network - Started over 9 months ago
  - [OctoCord](https://badbird5907.xyz/octocord) - Public multi-purpose utility bot (music, fun etc...)
  - [Aetheria](https://github.com/AetherianDevelopers) - My 1.17 RPG server - [discord](https://discord.gg/aP4kymSh2D) - Joined in 2018, am a owner now
@@ -86,3 +86,5 @@ sjZO17fAmFvUFuCvQEaIHooBRHn00VjgeA==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
+
+Shoot me a dm on discord `Badbird5907#9042`
