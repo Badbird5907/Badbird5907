@@ -1,9 +1,17 @@
 # Hi, i'm Badbird5907
+You might know me as "That idiot" or "That guy who writes sphagetti code"
 ## Im a:<br>
  
  - Java Developer
  - Web Developer
  - No-Life
+## What I'm Working on:<br>
+ - [OctoPvP](https://github.com/OctoPvP/) - My 1.8 pvp server network - Started over 9 months ago
+ - [OctoCord](https://badbird5907.xyz/octocord) - Public multi-purpose utility bot (music, fun etc...)
+ - [Aetheria](https://github.com/AetherianDevelopers) - My 1.17 RPG server - [discord](https://discord.gg/aP4kymSh2D) - Joined in 2018, am a owner now
+ - [JDACommand](https://github.com/Badbird-5907/JDACommand) - Command Library for [JDA](https://github.com/DV8FromTheWorld/JDA), originally created for [OctoCord](https://badbird5907.xyz/octocord)
+ - [bLib](https://github.com/Badbird-5907/bLib) - Utility library (command, menu framework) for 1.13+ servers
+ - [AntiCombatLog](https://github.com/Badbird-5907/AntiCombatLog) - Does what it name says [spigotmc](https://www.spigotmc.org/resources/anticombatlog.94540/)
 
 ## More about me
 - I like to play minecraft (multiplayer pvp)
@@ -21,6 +29,7 @@
 ![](https://komarev.com/ghpvc/?username=Badbird-5907) <br />
 [![Badbird-5907's github stats](https://github-readme-stats.vercel.app/api?username=Badbird-5907&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badbird-5907&layout=compact&theme=radical&hide=html,css&exclude_repo=AetheriaDiscord,mcp_1.12.2)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/Badbird-5907?template=classic&config.timezone=America%2FNew_York)
 
 ## 2021 goals
  - [x] Write something useful to the community like a library [JDACommand is one i guess](https://github.com/Badbird-5907/JDACommand)
