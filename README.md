@@ -18,18 +18,17 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
 - I spend most of my time developing spigot server plugins
 - I spend way too much time on a computer
 - Why are you reading this? this is so boring 
-- I spend 90% of the time staring at IntelliJ
+- I spend 99% of my time complaining, 1% actually developing
 
 ## Websites:
 - https://badbird5907.net/
 - https://badbird5907.xyz/
-- https://i-hate.school/
+- https://i-hate.school/ (dead, im too broke to support this domain lmao)
 - https://octopvp.net/
 ### Badges and stuff
 ![](https://komarev.com/ghpvc/?username=Badbird-5907) <br />
 [![Badbird-5907's github stats](https://github-readme-stats.vercel.app/api?username=Badbird-5907&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badbird-5907&layout=compact&theme=radical&hide=html,css&exclude_repo=AetheriaDiscord,mcp_1.12.2)](https://github.com/anuraghazra/github-readme-stats)
-![Metrics](https://metrics.lecoq.io/Badbird-5907?template=classic&config.timezone=America%2FNew_York)
 
 ## 2021 goals
  - [x] Write something useful to the community like a library [JDACommand is one i guess](https://github.com/Badbird-5907/JDACommand)
