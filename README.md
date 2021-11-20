@@ -25,7 +25,7 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
 - I spend way too much time on a computer
 - Why are you reading this? this is so boring 
 - I spend 99% of my time complaining, 1% actually developing
-- I have a torn retina because I literally don't go outside
+- I have a [torn retina](https://cdn.badbird5907.net/retina.jpg) because I literally don't go outside
 
 ## Websites:
 - https://badbird5907.net/
