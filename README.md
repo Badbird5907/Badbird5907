@@ -72,8 +72,8 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
 <details> 
  <summary>Joke domains</summary>
  <br>
- - https://sleeps-with.men/
- - https://brain-doesnt.work/
+  - https://sleeps-with.men/
+  - https://brain-doesnt.work/
 </details>
 ### Badges and stuff
 ![](https://komarev.com/ghpvc/?username=Badbird-5907) <br />
