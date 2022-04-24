@@ -60,11 +60,21 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
 - I spend 99% of my time complaining, 1% actually developing
 - I have a [torn retina](https://cdn.badbird5907.net/retina.jpg) because I literally don't go outside
 
-## Websites:
+## Domains:
 - https://badbird5907.net/
 - https://badbird5907.xyz/
 - https://i-hate.school/ (dead, im too broke to support this domain lmao)
 - https://octopvp.net/
+- https://octodevelopment.org/
+- https://aetheria.world/
+- https://aetheriamc.xyz/
+### Joke domains:
+<details> 
+ <summary>Joke domains</summary>
+ <br>
+ - https://sleeps-with.men/
+ - https://brain-doesnt.work/
+</details>
 ### Badges and stuff
 ![](https://komarev.com/ghpvc/?username=Badbird-5907) <br />
 [![Badbird-5907's github stats](https://github-readme-stats.vercel.app/api?username=Badbird-5907&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   <br />
