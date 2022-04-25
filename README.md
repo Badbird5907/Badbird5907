@@ -62,6 +62,7 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
 
 ## Domains:
 - https://badbird5907.net/
+- https://badbird.dev/
 - https://badbird5907.xyz/
 - https://i-hate.school/ (dead, im too broke to support this domain lmao)
 - https://octopvp.net/
