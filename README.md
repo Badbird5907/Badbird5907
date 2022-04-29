@@ -72,7 +72,7 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
 ### Joke domains:
 <details> 
  <summary>Joke domains</summary>
- <br>
+ <br/>
   - https://sleeps-with.men/
   - https://brain-doesnt.work/
 </details>
