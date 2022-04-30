@@ -46,7 +46,8 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-- Java, more specifically Minecraft development and JDA/Discord Bots
+ - Java, more specifically Minecraft development and JDA/Discord Bots
+ - React, Typescript/tsx - Building frontend ui that communicates to a backend server with [MUI](https://mui.com)
  - Node.js, some experience in Express.js (don't expect good reliable code from that)
  - MongoDB Synchronous Java driver
  - Git (commit, push, pull, fork, PR, patches, issues)
