@@ -132,4 +132,4 @@ sjZO17fAmFvUFuCvQEaIHooBRHn00VjgeA==
 ```
 </details>
 
-Shoot me a dm on discord `Badbird5907#9202`
+Shoot me a dm on discord `Badbird5907#5907`
