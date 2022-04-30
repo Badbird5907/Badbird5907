@@ -75,12 +75,12 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
 [![Badbird-5907's github stats](https://github-readme-stats.vercel.app/api?username=Badbird-5907&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badbird-5907&layout=compact&theme=radical&hide=html,css&exclude_repo=AetheriaDiscord,mcp_1.12.2)](https://github.com/anuraghazra/github-readme-stats)
 
-## 2021 goals
- - [x] Write something useful to the community like a library [JDACommand is one i guess](https://github.com/Badbird-5907/JDACommand)
+## 2022 goals
  - [ ] Get a life
  - [ ] Start a mc pvp network
  - [ ] Learn C++
  - [x] Make enough money to support all my projects
+ - [ ] Have a completely green contribution chart (commiting at least once a day)
 
 ## Public PGP Key
 <details>
