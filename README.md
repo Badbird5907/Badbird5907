@@ -1,5 +1,8 @@
 # Hi, i'm Badbird5907
 You might know me as "That idiot" or "That guy who writes sphagetti code"
+
+I have a discord server! https://discord.badbird.dev
+
 ## Im a:<br>
  
  - Java Developer
@@ -45,7 +48,6 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
  - Java, more specifically Minecraft development and JDA/Discord Bots
  - React, Typescript/tsx - Building frontend ui that communicates to a backend server with [MUI](https://mui.com)
