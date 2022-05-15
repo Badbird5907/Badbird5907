@@ -13,9 +13,9 @@ I have a discord server! https://discord.badbird.dev
  - [Carbon](https://carbonhost.cloud) - File host / URL shortener / Pastebin
  - [OctoCord](https://badbird5907.xyz/octocord) - Public multi-purpose utility bot (music, fun etc...)
  - [Aetheria](https://github.com/AetherianDevelopers) - My 1.17 RPG server - [discord](https://discord.gg/aP4kymSh2D) - Joined in 2018, am a owner now
- - [JDACommand](https://github.com/Badbird-5907/JDACommand) - Command Library for [JDA](https://github.com/DV8FromTheWorld/JDA), originally created for [OctoCord](https://badbird5907.xyz/octocord)
- - [bLib](https://github.com/Badbird-5907/bLib) - Utility library (command, menu framework) for 1.13+ servers
- - [AntiCombatLog](https://github.com/Badbird-5907/AntiCombatLog) - Does what it's name says [spigotmc](https://www.spigotmc.org/resources/anticombatlog.94540/)
+ - [JDACommand](https://github.com/Badbird5907/JDACommand) - Command Library for [JDA](https://github.com/DV8FromTheWorld/JDA), originally created for [OctoCord](https://badbird5907.xyz/octocord)
+ - [bLib](https://github.com/Badbird5907/bLib) - Utility library (command, menu framework) for 1.13+ servers
+ - [AntiCombatLog](https://github.com/Badbird5907/AntiCombatLog) - Does what it's name says [spigotmc](https://www.spigotmc.org/resources/anticombatlog.94540/)
 # Experience 
 
 ### Languages & Technology
@@ -75,9 +75,9 @@ I have a discord server! https://discord.badbird.dev
 - https://aetheriamc.xyz/
 
 ### Badges and stuff
-![](https://komarev.com/ghpvc/?username=Badbird-5907) <br />
-[![Badbird-5907's github stats](https://github-readme-stats.vercel.app/api?username=Badbird-5907&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badbird-5907&layout=compact&theme=radical&hide=html,css&exclude_repo=AetheriaDiscord,mcp_1.12.2)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=Badbird5907) <br />
+[![Badbird5907's github stats](https://github-readme-stats.vercel.app/api?username=Badbird5907&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badbird5907&layout=compact&theme=radical&hide=html,css&exclude_repo=AetheriaDiscord,mcp_1.12.2)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 2022 goals
  - [ ] Get a life
