@@ -90,6 +90,8 @@ I now have a sponsor button!
  - [x] Make enough money to support all my projects
  - [ ] Have a completely green contribution chart (commiting at least once a day)
 
+## Sponsors
+ - [HyperSkys](https://github.com/HyperSkys)
 ## Public PGP Key
 <details>
 <summary>My Public PGP Key</summary>
