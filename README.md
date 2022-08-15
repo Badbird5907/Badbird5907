@@ -4,7 +4,6 @@ You might know me as "That idiot" or "That guy who writes sphagetti code"
 I have a discord server! https://discord.badbird.dev
 
 I now have a sponsor button!
-<-----------
 
 ## Im a:<br>
  
