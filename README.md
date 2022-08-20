@@ -11,7 +11,7 @@ I now have a sponsor button!
  - Web Developer
  - No-Life
 ## What I'm working on:<br>
- - [OctoPvP](https://github.com/OctoPvP/) - My 1.8 pvp server network - Started over 9 months ago
+ - [OctoPvP](https://github.com/OctoPvP/) - My 1.8 pvp server network - Started over 1.5 years ago
  - [Carbon](https://carbonhost.cloud) - File host / URL shortener / Pastebin
  - [OctoCord](https://badbird5907.xyz/octocord) - Public multi-purpose utility bot (music, fun etc...)
  - [Aetheria](https://github.com/AetherianDevelopers) - My 1.17 RPG server - [discord](https://discord.gg/aP4kymSh2D) - Joined in 2018, am a owner now
