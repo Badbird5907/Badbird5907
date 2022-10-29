@@ -68,10 +68,8 @@ I now have a sponsor button!
 - I have a [torn retina](https://cdn.badbird5907.net/retina.jpg) because I literally don't go outside
 
 ## Domains:
-- https://badbird5907.net/
 - https://badbird.dev/
-- https://badbird5907.xyz/
-- https://i-hate.school/ (dead, im too broke to support this domain lmao)
+- https://badbird5907.net/
 - https://octopvp.net/
 - https://octodevelopment.org/
 - https://aetheria.world/
