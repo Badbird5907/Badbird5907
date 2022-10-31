@@ -91,7 +91,8 @@ I now have a sponsor button!
 <details>
 <summary>My Public PGP Key</summary>
 <br>
-
+Note: I have a new PGP key that I have yet to upload here yet.
+ 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
