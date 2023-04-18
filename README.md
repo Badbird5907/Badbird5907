@@ -33,9 +33,9 @@ Site & Blog: https://badbird.dev/
 ## Public PGP Key
 <details>
 <summary>My Public PGP Key</summary>
-<br>
+
+
 ```
- 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEYzu7HRYJKwYBBAHaRw8BAQdAll5w+UGZgZRCtIj1RMbHXdUucSGZIV/KZFu3
@@ -49,7 +49,6 @@ ux0CGwwFCQPCZwAACgkQmD+gF9R4eKfnjAD/WFk2iCa5yELMXQh4OACCEM1TZuaE
 jZDoGhKJprTiFbMA/RMUdT50ZL2Ycn1gY05Fl+pijBuSVFI7t1WioELzPXsP
 =S3f8
 -----END PGP PUBLIC KEY BLOCK-----
-
 ```
 
 </details>
