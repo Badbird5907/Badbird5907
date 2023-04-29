@@ -22,3 +22,5 @@ Site & Blog: https://badbird.dev/
 
 # Inquiries
 Join [my discord](https://discord.badbird.dev/) & shoot me a DM!
+
+![Metrics](/github-metrics.svg)
