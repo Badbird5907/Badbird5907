@@ -7,6 +7,7 @@ Site & Blog: https://badbird.dev/
 
 ## I'm a:
  - Full stack developer
+ - Freelancer
  - Java nerd
  - idiot
 
