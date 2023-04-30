@@ -25,5 +25,5 @@ Join [my discord](https://discord.badbird.dev/) & shoot me a DM!
 
 [<img align="left" width="390" src="https://raw.githubusercontent.com/Badbird5907/Badbird5907/master/github-metrics.svg">](#)
 [<img align="right" width="350" src="https://raw.githubusercontent.com/Badbird5907/Badbird5907/master/general_2.svg">](#)
-<sup><sub>Note: Streak should be 400+ days, scroll below for the commit graph</sub></sup>
+<sup align="right"><sub>Note: Streak should be 400+ days, scroll below for the commit graph</sub></sup>
 [<img align="right" width="350" src="https://raw.githubusercontent.com/Badbird5907/Badbird5907/master/sponsors.svg">](#)
