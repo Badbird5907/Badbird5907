@@ -29,16 +29,13 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_ignored: html, css, ejs 
           
-      - name: Sponsors
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: sponsors.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsorships_sections: amount
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
       - name: General_Right
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -49,17 +46,7 @@ jobs:
           
           plugin_notable: yes
           plugin_isocalendar: yes
-      - name: Wakatime
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: wakatime.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
+          
+          plugin_sponsors: yes
+          plugin_sponsors_past: yes
+          plugin_sponsorships_sections: amount
