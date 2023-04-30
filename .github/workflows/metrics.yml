@@ -20,8 +20,6 @@ jobs:
           filename: github-metrics.svg
           base_indepth: true
           base_hireable: yes
-          plugin_notable: yes
-          plugin_isocalendar: yes
           
           plugin_languages: yes
           plugin_languages_colors: github
@@ -42,6 +40,16 @@ jobs:
           plugin_sponsors_past: yes
           plugin_sponsorships: yes
           plugin_sponsorships_sections: amount
+      - name: General_Right
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: general_2.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          
+          plugin_notable: yes
+          plugin_isocalendar: yes
       - name: Wakatime
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
