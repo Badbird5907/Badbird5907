@@ -7,6 +7,7 @@ Site & Blog: https://badbird.dev/
 
 # Sponsors
 [ConnorCogged](https://github.com/ConnorCogged)
+
 Thanks!
 
 ## I'm a:
