@@ -5,6 +5,10 @@ I have a discord server! https://discord.badbird.dev
 
 Site & Blog: https://badbird.dev/
 
+# Sponsors
+[ConnorCogged](https://github.com/ConnorCogged)
+Thanks!
+
 ## I'm a:
  - Full stack developer
  - Freelancer
