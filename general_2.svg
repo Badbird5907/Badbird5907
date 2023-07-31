@@ -73,13 +73,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 182 days
+                            Current streak 183 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 182 days
+                            Best streak 183 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -97,7 +97,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~8.98
+                            Average per day at ~8.94
                         </div>
                     </section>
                 </div>
@@ -1079,6 +1079,13 @@
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.489795918367347 1.7,2.489795918367347 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 5.755102040816326)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2448979591836733 0,1.2448979591836735 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2448979591836735 1.7,2.2448979591836733 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1189,15 +1196,16 @@
                                 <mask id="project-bar">
                                     <rect x="0" y="0" width="440" height="8" fill="white" rx="5"/>
                                 </mask>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#ec6cb9"/>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="440" height="8" fill="#d1d5da"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="88" height="8" fill="#ec6cb9"/>
+                                <rect mask="url(#project-bar)" x="88" y="0" width="352" height="8" fill="#d1d5da"/>
                             </svg>
                         </div>
                         <div class="goal-text">
-                            <span>1 sponsor is funding Badbird5907's work</span>
+                            <span>2 sponsors are funding Badbird5907's work</span>
                             <span>$25 per month</span>
                         </div>
                         <div class="row">
+                            <img class="avatar " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAIAAABuYg/PAAAACXBIWXMAAAsTAAALEwEAmpwYAAACpUlEQVR4nGMImTmTbohh1LKZwzsYo0+ehKPwjRtpaFnWkvqMT8chKPHrVb///1N2zUpbUE8Ty3aeUjt0iOHQIYbpN+MrX873+/+/8uXCxgPltLLsyhWG06cZ1pzTD3v50u//f7///6fs8aeJZWEZaocPM1y4wHDyrO6UUxFllxdNPhW5an8ITSzTd9CurWXYv1/xxoMzIQ/2Hz7MEPZw75F7j2himbyBgYUFR2GhQWVlZcWCyVOnJmVMaG6YOJEmlul4e4mKcunps0+dzrJhk2hikv/cVYZTNjvTxLKcWcnOHnJBkTwhMYL+YQKB4bxZ7XbEaw8h3jLr7Ix5yzSbZ3rnd4XqWyrpWyrldYbtOKaRPy2J+pYZRYcvW6XRMdOiY55NVKpSULJuzfzgQ6dFm+a40cSy5avEs5o9Aitd5q3h71qsalZdtuGQXP0sL5pYtmI1a0SymZ0HX/7uxtzt9TbufEtWys/doE9ly5yrKhIzBQ4c5E7IUEvN5vQs0SncVpWQxj5tplxvP59bhg81LfPu6ixoc163Uaa3lyE7m3HaNIaJExnS0hi6uhjaJzv6NhZTORin7wy6eVP2xAmG5maGri7Gjg7GpiYQu7Sd2sEYMnNmZEt8YCRvTDzbokWiR48a7d2rs2aNhoGNsG4IbQpiq+z05EyRPXuUJ68NLK/h27FDIqTEnYY1tU+o+M6dMjkLSu095Q4c0MldWElDyxSNhauauZKmFQupCag6q7q2NNLQMmErvZp1CfmL68zdRGrWRfjMmkFDy/RcNbYd9chdWGHqKrBsvXLKnAYaWrZ5s2BDE4t3WcyqVSwVVdzepVE0tGz9etvoRAlBObGlSxWjEtUF5cRoaFnqjPqQzmqnynI4g4aWhVCGGEYtmzkajCG4EwgAcE6MYuipq9QAAAAASUVORK5CYII=" width="24" height="24" alt="" />
                             <img class="avatar " src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAcGBQII/8QAMBAAAQMDAgQDBgcAAAAAAAAAAQIDBAAFEQZBBxIhMRNRcRQjQmGRoRUkMoGSwdH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECAwb/xAAhEQACAgICAgMBAAAAAAAAAAAAAQIDBBETMQUhM2Fxsf/aAAwDAQACEQMRAD8Aq9ZPWGqIlpdREDrjj+MuMsHCwNsr+EenXtXdv1w/C7NMm4BLLRKQd17D64qHT3EeEhx5zxJbpLjzxczkk0ytr5YOG9fnpkJ6ezUN68KZQdRAeQUKAJM1TmUbjBGKomnr7Cv0IvwlEFJw40rots/P/ag6Eue9XyrLYP6sHArQ6CuCoOqIhB91J/LuDzB7ffH3rLGohjx1W219tv8Auy0pub9lrpSlFFDO8QWy5o66cndDYc/gsH+qzvBtizSoF0k3Z9uK/wCIGmnHFBGABk8hO/Xb5VurrEFwtkyGs4EhlTRPlkYqE6ev8jTUqSwzO8Jxt0hXhkLbUR036Ht3oTLs44m1UFNl1s7MBmc49KRchHAKGXSFkPDCAVuISOi8t5BOx88ipFfy1H4ohi2sltg3COtoKGO5Qe23UmvV04hXsxCr20oYe+JpICz0+o9RiuXw9Uzc9eQ3JKi3jLqQ53cWAcD13/agsXIblpm1lSS2i9UpSnAGczU77sbTN1kMLKHmobriFDZQScGvn2HEYkxkBxpORunoT60pSjyfcRn47qR7jS3VsoaPJyKHUco+VFuGDPhPRQltxtwLSQOxBGKUoCfyoIrS4mfSVKUrpV0JD//Z" width="24" height="24" alt="" />
                         </div>
                         <div class="past-text">
