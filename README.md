@@ -16,12 +16,8 @@ Thanks!
  - Java nerd
  - idiot
 
-## What i'm working on:
- - [OctoMC](https://github.com/OctoPvP/) - Over-engineered minecraft network
- - [CarbonHost](https://carbonhost.cloud) - File host & url shortener
- - See some of my (boring) projects below in my pinned repos.
-
-![](https://komarev.com/ghpvc/?username=Badbird5907) <br />
+# Badges and stuff
+![](https://komarev.com/ghpvc/?username=Badbird5907)
 [![Badbird5907's github stats](https://github-readme-stats-vyhs.vercel.app/api?username=Badbird5907&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-vyhs.vercel.app/api/top-langs/?username=Badbird5907&layout=compact&theme=radical&hide=html,css&exclude_repo=AetheriaDiscord,mcp_1.12.2)](https://github.com/anuraghazra/github-readme-stats)
 
