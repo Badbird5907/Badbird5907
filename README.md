@@ -3,6 +3,8 @@
 
 I'm a SWE building [ConnectAlum](https://connectalum.com/) with NextJS, Supabase, and Drizzle.
 
+You should sponsor me! I'll donate most of the proceeds to cool OSS projects that I use. The rest will be used to help pay infrastructure costs.
+
 <details>
 <summary>Other Stuff</summary>
 <br>
