@@ -5,7 +5,7 @@ I'm a SWE building [ConnectAlum](https://connectalum.com/) with NextJS, Supabase
 
 [<img align="left" width="390" src="https://raw.githubusercontent.com/Badbird5907/Badbird5907/master/github-metrics.svg">](#)
 [<img align="right" width="350" src="https://raw.githubusercontent.com/Badbird5907/Badbird5907/master/general_2.svg">](#)
-
+<br/><br/><br/>
 <details>
 <summary>Other Stuff</summary>
 <br>
