@@ -1,9 +1,11 @@
-# Hi, i'm Evan.
-*You might know me as "That idiot" or "That guy who writes spaghetti code"*
+<h1 align="center">Hi 👋 I'm Evan.</h1>
 
-I'm a SWE building [ConnectAlum](https://connectalum.com/) with NextJS, Supabase, and Drizzle.
-
-You should sponsor me! I'll donate most of the proceeds to cool OSS projects that I use. The rest will be used to help pay infrastructure costs.
+- 🔭 I'm a Software Engineer building [ConnectAlum](https://connectalum.com/) with NextJS, Supabase, and Drizzle.
+- 🦀 I am currently learning the Rust language
+- 📫 You can reach me via email: [contact@badbird.dev](mailto:contact@badbird.dev), or [discord](https://discord.badbird.dev/)
+- ⚒️ I have experience building **Full Stack** web apps, and minecraft plugins/mods.
+- 🌐 My portfolio is at [badbird.dev](https://badbird.dev/)
+- 📈 You should sponsor me! I'll donate most of the proceeds to cool OSS projects that I use. The rest will be used to help pay infrastructure costs.
 
 <details>
 <summary>Other Stuff</summary>
