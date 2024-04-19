@@ -22,5 +22,5 @@
 
 Join [my discord server](https://discord.badbird.dev/)!
 
-[<img align="left" width="390" src="https://raw.githubusercontent.com/Badbird5907/Badbird5907/master/github-metrics.svg">](#)
+[<img align="left" width="350" src="https://raw.githubusercontent.com/Badbird5907/Badbird5907/master/github-metrics.svg">](#)
 [<img align="right" width="350" src="https://raw.githubusercontent.com/Badbird5907/Badbird5907/master/general_2.svg">](#)
