@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 I'm Evan.</h1>
 
 - 🔭 I'm a Software Engineer building [ConnectAlum](https://connectalum.com/) with NextJS, Supabase, and Drizzle.
-- 🦀 I am currently learning the Rust language
 - 📫 You can reach me via email: [contact@badbird.dev](mailto:contact@badbird.dev), or [discord](https://discord.badbird.dev/)
 - ⚒️ I have experience building **Full Stack** web apps, and minecraft plugins/mods.
 - 🌐 My portfolio is at [badbird.dev](https://badbird.dev/)
