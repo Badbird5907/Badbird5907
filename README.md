@@ -17,7 +17,7 @@
 </details>
 
 # Sponsors
-[Pylons](https://github.com/ngedwards998)
+[Pylons](https://github.com/snolyP)
 
 Join [my discord server](https://discord.badbird.dev/)!
 
