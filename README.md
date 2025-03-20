@@ -4,6 +4,7 @@
 - 📫 You can reach me via email: [contact@badbird.dev](mailto:contact@badbird.dev), or [discord](https://discord.badbird.dev/)
 - ⚒️ I have experience building **Full Stack** web apps, and minecraft plugins/mods.
 - 🌐 My portfolio is at [badbird.dev](https://badbird.dev/)
+- 💻 I love going to hackathons! I have currently won 3 out of 3 hackathons attended!
 - 📈 You should sponsor me! I'll donate most of the proceeds to cool OSS projects that I use. The rest will be used to help pay infrastructure costs.
 
 <details>
