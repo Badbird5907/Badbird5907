@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Evan.</h1>
 
 - 🔭 I'm a Software Engineer building [ConnectAlum](https://connectalum.com/) with NextJS, Supabase, and Drizzle.
+- 🏫 I'm currently studying a for BSc degree in Mathmeatics at the University of Toronto (St. George Campus)
 - 📫 You can reach me via email: [contact@badbird.dev](mailto:contact@badbird.dev), or [discord](https://discord.badbird.dev/)
 - ⚒️ I have experience building **Full Stack** web apps, and minecraft plugins/mods.
-- 🌐 My portfolio is at [badbird.dev](https://badbird.dev/)
-- 💻 I love going to hackathons! I have currently won 3 out of 3 hackathons attended! ([devpost](https://devpost.com/Badbird5907)) [one hackathon was not hosted on devpost.]
-- 📈 You should sponsor me! I'll donate most of the proceeds to cool OSS projects that I use. The rest will be used to help pay infrastructure costs.
+- 🌐 My portfolio is at [evanyu.dev](https://evanyu.dev/)
+- 💻 I love going to hackathons! I have currently won 3 out of 4 hackathons attended! ([devpost](https://devpost.com/Badbird5907)) [one hackathon was not hosted on devpost.]
 
 <details>
 <summary>Other Stuff</summary>
@@ -19,8 +19,6 @@
 
 # Sponsors
 [Pylons](https://github.com/snolyP)
-
-Join [my discord server](https://discord.badbird.dev/)!
 
 [<img align="left" width="350" src="https://raw.githubusercontent.com/Badbird5907/Badbird5907/master/github-metrics.svg">](#)
 [<img align="right" width="350" src="https://raw.githubusercontent.com/Badbird5907/Badbird5907/master/general_2.svg">](#)
