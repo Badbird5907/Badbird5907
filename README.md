@@ -6,7 +6,6 @@
 - ⚒️ I have experience building **Full Stack** web apps, and minecraft plugins/mods.
 - 🌐 My portfolio is at [evanyu.dev](https://evanyu.dev/)
 - 💻 I love going to hackathons! I have currently won 5 of 9 hackathons attended! [List](https://evanyu.dev/hackathons)
-- 🌴 I like using poke to build my projects
 
 <details>
 <summary>Other Stuff</summary>
