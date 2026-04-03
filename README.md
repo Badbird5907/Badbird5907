@@ -5,7 +5,9 @@
 - 📫 You can reach me via email: [contact@badbird.dev](mailto:contact@badbird.dev), or [discord](https://discord.badbird.dev/)
 - ⚒️ I have experience building **Full Stack** web apps, and minecraft plugins/mods.
 - 🌐 My portfolio is at [evanyu.dev](https://evanyu.dev/)
-- 💻 I love going to hackathons! I have currently won 6 of 10 hackathons attended! [List](https://evanyu.dev/hackathons)
+- 💻 I love going to hackathons! I have currently won 7 of 10 hackathons attended! [List](https://evanyu.dev/hackathons)
+
+**Read my blog post on [Winning TreeHacks](https://evanyu.dev/blog/treehacks-2026)!**
 
 <details>
 <summary>Other Stuff</summary>
