@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋 I'm Evan.</h1>
 
-- 🔭 I'm a Software Engineer building [ConnectAlum](https://connectalum.com/)
-- 🏫 I'm currently studying for a BSc in Mathmeatics at the University of Toronto (St. George Campus)
-- 📫 You can reach me via email: [contact@badbird.dev](mailto:contact@badbird.dev), or [discord](https://discord.badbird.dev/)
-- ⚒️ I have experience building **Full Stack** web apps, and minecraft plugins/mods.
+- 🔭 I'm a Product Engineer building @ [The Relationship Company](https://relationship.co/)
+- 🏫 I'm currently studying for a BSc in Mathematics at the University of Toronto (St. George Campus)
+- 📫 You can reach me via email: [contact@evanyu.dev](mailto:contact@evanyu.dev)
 - 🌐 My portfolio is at [evanyu.dev](https://evanyu.dev/)
 - 💻 I love going to hackathons! I have currently won 7 of 10 hackathons attended! [List](https://evanyu.dev/hackathons)
 
